@@ -16,7 +16,7 @@
 
 1. **瀑布模型\(Waterfall Model\)**
 
-![image](/assets/timg.jpeg)
+![image](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/timg.jpeg)
 
 特点：
 
@@ -42,7 +42,7 @@
 
 **3.原型模型\(prototype\)**
 
-![image](/assets/a8014c086e061d95fcce281b7bf40ad162d9ca0d.jpg)
+![image](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/a8014c086e061d95fcce281b7bf40ad162d9ca0d.jpg)
 
 特点：
 
@@ -52,7 +52,7 @@
 
 **4.螺旋模型\(spiral model\)**
 
-![image](/assets/sp.png)特点：
+![image](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/sp.png)特点：
 
 * combines development activities with risk management to minimize the control risks.（结合开发进程和风险管理将风险控制在最小\)
 * The model is presented as a spiral in which each iteration is represented by a circuit around four major （一个螺旋的一次迭代主要由四步组成,如图\)
