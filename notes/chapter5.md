@@ -21,35 +21,35 @@
 
 #### 体系结构风格和策略（Architecture Styles and Strategies）：
 
-![](/assets/t7.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t7.png)
 
 * **Piper-and-Filter（管道过滤器\)**
 
-![](/assets/t8.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t8.png)
 
 * **Client-Server\(客户端-服务端\)**
 
-![](/assets/t9.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t9.png)
 
 * **Peer-to-Peer\(对等\)**
 
-![](/assets/t10.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t10.png)
 
 * **Publish-Subscribe\(发布-订阅\) 也叫公布-调用**
 
-![](/assets/t11.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t11.png)
 
 * **Repositories\(信息库\)**
 
-![](/assets/t12.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t12.png)
 
 * **Laying\(分层\)**
 
-![](/assets/t13.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t13.png)
 
 * **Combination（结合）**
 
-![](/assets/t14.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t14.png)
 
 #### 设计特性：
 
@@ -57,7 +57,7 @@
 
 **解耦性：**
 
-![](/assets/t15.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t15.png)
 
 > 自上而下的将大问题分解成若干个子问题
 
@@ -86,5 +86,5 @@
 
 * 功能内聚
 
-![](/assets/t18.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t18.png)
 
