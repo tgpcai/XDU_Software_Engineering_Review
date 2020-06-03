@@ -21,7 +21,6 @@ Star Me~
 
 [https://github.com/tgpcai/XDU_Software_Engineering_Review.git)
 
-![image](/assets/clickme.png)
 
 
 
