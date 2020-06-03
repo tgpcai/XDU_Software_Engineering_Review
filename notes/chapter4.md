@@ -2,7 +2,7 @@
 
 #### 需求的获取方式：
 
-![](/assets/3.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/3.png)
 
 1. **Elicitation**\(引出\): 收集用户的需求。
 2. **Analysis**\(分析\): 对期望的行为进行理解和建模。
@@ -15,11 +15,11 @@
 
 #### **类型：如图**
 
-![](/assets/96DD5998-39A3-442B-B4E2-5B02D907E028.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/96DD5998-39A3-442B-B4E2-5B02D907E028.png)
 
 #### **特征：\(需求的特点\)**
 
-![](/assets/B524E86C-AB81-4CCF-8A49-B0B97C66711D.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/B524E86C-AB81-4CCF-8A49-B0B97C66711D.png)
 
 #### 表示方法及应用：
 
@@ -29,17 +29,17 @@
 
 > 应用：**Entity-Relationship Diagram** （实体-关系图\)
 
-![](/assets/er.jpg)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/er.jpg)
 
-![](/assets/t1.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t1.png)
 
 * Function Modeling\(功能建模\)
 
 > 应用：**Data-Flow Diagrams** \(数据流图\)
 
-![](/assets/t2.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t2.png)
 
-![](/assets/t3.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t3.png)
 
 DFD（data-flow diagram\)还有另一补充：Decision Table\(Tree）（决策表或决策树\)
 
@@ -47,15 +47,15 @@ DFD（data-flow diagram\)还有另一补充：Decision Table\(Tree）（决策�
 
 > 应用: State Machine（状态机\)
 
-![](/assets/t4.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t4.png)
 
-![](/assets/t5.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t5.png)
 
 **建模核心思想\(敲黑板\): Top-Down,Refine by Step （自顶向下，逐步求精\)**
 
 例图：
 
-![](/assets/t6.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t6.png)
 
 #### 需求文档：
 
