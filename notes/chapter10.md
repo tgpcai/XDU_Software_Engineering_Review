@@ -2,13 +2,13 @@
 
 #### 文档的定义和类型：
 
-![](/assets/t20.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t20.png)
 
 #### 
 
 #### 培训对象和类型：
 
-![](/assets/t21.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t21.png)
 
 培训对象有三个：
 
@@ -20,5 +20,5 @@
 
 #### 培训辅助方法：
 
-![](/assets/t22.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t22.png)
 
