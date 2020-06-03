@@ -1,0 +1,432 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>第七章：软件实现 · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.2">
+        
+        
+        
+    
+    <link rel="stylesheet" href="gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="di-ba-zhang-ff1a-dan-yuan-ce-shi.html" />
+    
+    
+    <link rel="prev" href="di-wu-zhang-ff1a-xi-tong-she-ji.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="chapter1.html">
+            
+                <a href="chapter1.html">
+            
+                    
+                    第一章：概述
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="di-er-zhang-ff1a-guo-cheng-he-sheng-ming-zhou-qi.html">
+            
+                <a href="di-er-zhang-ff1a-guo-cheng-he-sheng-ming-zhou-qi.html">
+            
+                    
+                    第二章：过程和生命周期
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="di-san-zhang-ff1a-xiang-mu-guan-li.html">
+            
+                <a href="di-san-zhang-ff1a-xiang-mu-guan-li.html">
+            
+                    
+                    第三章：项目管理
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="di-si-zhang-ff1a-xu-qiu-fen-xi.html">
+            
+                <a href="di-si-zhang-ff1a-xu-qiu-fen-xi.html">
+            
+                    
+                    第四章：需求分析
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="di-wu-zhang-ff1a-xi-tong-she-ji.html">
+            
+                <a href="di-wu-zhang-ff1a-xi-tong-she-ji.html">
+            
+                    
+                    第五章：系统设计
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.7" data-path="di-qi-zhang-ff1a-ruan-jian-shi-xian.html">
+            
+                <a href="di-qi-zhang-ff1a-ruan-jian-shi-xian.html">
+            
+                    
+                    第七章：软件实现
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="di-ba-zhang-ff1a-dan-yuan-ce-shi.html">
+            
+                <a href="di-ba-zhang-ff1a-dan-yuan-ce-shi.html">
+            
+                    
+                    第八章：单元测试
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="di-jiu-zhang-ff1a-xi-tong-ce-shi.html">
+            
+                <a href="di-jiu-zhang-ff1a-xi-tong-ce-shi.html">
+            
+                    
+                    第九章：系统测试
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="di-shi-zhang-ff1a-xi-tong-jiao-fu.html">
+            
+                <a href="di-shi-zhang-ff1a-xi-tong-jiao-fu.html">
+            
+                    
+                    第十章：系统交付
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="di-shi-yi-zhang-ff1a-xi-tong-wei-hu.html">
+            
+                <a href="di-shi-yi-zhang-ff1a-xi-tong-wei-hu.html">
+            
+                    
+                    第十一章：系统维护
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="." >第七章：软件实现</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="&#x7B2C;&#x4E03;&#x7AE0;&#xFF1A;&#x8F6F;&#x4EF6;&#x5B9E;&#x73B0;">&#x7B2C;&#x4E03;&#x7AE0;&#xFF1A;&#x8F6F;&#x4EF6;&#x5B9E;&#x73B0;</h1>
+<h4 id="&#x6587;&#x6863;&#x7684;&#x6807;&#x51C6;&#xFF1A;">&#x6587;&#x6863;&#x7684;&#x6807;&#x51C6;&#xFF1A;</h4>
+<p><img src="assets/&#x5C4F;&#x5E55;&#x5FEB;&#x7167; 2017-06-22 &#x4E0B;&#x5348;5.17.03.png" alt=""></p>
+<ul>
+<li>National Standards</li>
+<li>Standards For You</li>
+<li>Standards For Others</li>
+</ul>
+<h4 id="&#x6587;&#x6863;&#x5316;&#x65B9;&#x6CD5;&#xFF1A;"><strong>&#x6587;&#x6863;&#x5316;&#x65B9;&#x6CD5;&#xFF1A;</strong></h4>
+<ul>
+<li><strong>Internal Documentation &#x5185;&#x90E8;&#x6587;&#x6863;</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">&#x8981;&#x70B9;</th>
+<th style="text-align:left">&#x4E2D;&#x6587;&#x91CA;&#x4E49;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Head Comment Block</td>
+<td style="text-align:left">&#x5934;&#x90E8;&#x6CE8;&#x91CA;</td>
+</tr>
+<tr>
+<td style="text-align:left">Other Program Comment</td>
+<td style="text-align:left">&#x5176;&#x4F59;&#x7A0B;&#x5E8F;&#x6CE8;&#x91CA;</td>
+</tr>
+<tr>
+<td style="text-align:left">Meaningful Variable Names and Statement Labels</td>
+<td style="text-align:left">&#x53D8;&#x91CF;&#x548C;&#x8BED;&#x53E5;&#x6807;&#x7B7E;&#x5FC5;&#x987B;&#x6709;&#x610F;&#x4E49;</td>
+</tr>
+<tr>
+<td style="text-align:left">Formatting to Enhance Understanding</td>
+<td style="text-align:left">&#x826F;&#x597D;&#x7684;&#x7F29;&#x8FDB;&#x4FBF;&#x4E8E;&#x66F4;&#x597D;&#x7406;&#x89E3;&#x4EE3;&#x7801;</td>
+</tr>
+<tr>
+<td style="text-align:left">Documenting Data</td>
+<td style="text-align:left">&#x5C06;&#x6570;&#x636E;&#x8FDB;&#x884C;&#x6587;&#x6863;&#x5316;</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>External Documentation &#x5916;&#x90E8;&#x6587;&#x6863;</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">&#x8981;&#x70B9;</th>
+<th style="text-align:left">&#x4E2D;&#x6587;&#x91CA;&#x4E49;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">Describing The Problem</td>
+<td style="text-align:left">&#x5C06;&#x95EE;&#x9898;&#x63CF;&#x8FF0;&#x6E05;&#x695A;</td>
+</tr>
+<tr>
+<td style="text-align:left">Describing The Algorithm</td>
+<td style="text-align:left">&#x63CF;&#x8FF0;&#x7B97;&#x6CD5;</td>
+</tr>
+<tr>
+<td style="text-align:left">Describing The Data</td>
+<td style="text-align:left">&#x63CF;&#x8FF0;&#x6570;&#x636E;</td>
+</tr>
+</tbody>
+</table>
+<h4 id="&#x7F16;&#x7A0B;&#x8FC7;&#x7A0B;&#xFF1A;">&#x7F16;&#x7A0B;&#x8FC7;&#x7A0B;&#xFF1A;</h4>
+<p><img src="assets/&#x5C4F;&#x5E55;&#x5FEB;&#x7167; 2017-06-22 &#x4E0B;&#x5348;5.16.04.png" alt=""></p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="di-wu-zhang-ff1a-xi-tong-she-ji.html" class="navigation navigation-prev " aria-label="Previous page: 第五章：系统设计">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="di-ba-zhang-ff1a-dan-yuan-ce-shi.html" class="navigation navigation-next " aria-label="Next page: 第八章：单元测试">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"第七章：软件实现","level":"1.7","depth":1,"next":{"title":"第八章：单元测试","level":"1.8","depth":1,"path":"di-ba-zhang-ff1a-dan-yuan-ce-shi.md","ref":"di-ba-zhang-ff1a-dan-yuan-ce-shi.md","articles":[]},"previous":{"title":"第五章：系统设计","level":"1.6","depth":1,"path":"di-wu-zhang-ff1a-xi-tong-she-ji.md","ref":"di-wu-zhang-ff1a-xi-tong-she-ji.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["livereload"],"pluginsConfig":{"livereload":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"di-qi-zhang-ff1a-ruan-jian-shi-xian.md","mtime":"2017-06-22T09:26:03.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-06-23T05:31:40.629Z"},"basePath":".","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="gitbook/gitbook.js"></script>
+    <script src="gitbook/theme.js"></script>
+    
+        
+        <script src="gitbook/gitbook-plugin-livereload/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
