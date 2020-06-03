@@ -2,7 +2,7 @@
 
 #### 文档的标准：
 
-![](/assets/t16.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t16.png)
 
 * National Standards
 * Standards For You
@@ -30,5 +30,5 @@
 
 #### 编程过程：
 
-![](/assets/t17.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/t17.png)
 
