@@ -12,13 +12,13 @@
 
 例子：
 
-![image](/assets/0824ab18972bd407d72b1bd979899e510fb30922.jpg)
+![image](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/0824ab18972bd407d72b1bd979899e510fb30922.jpg)
 
 ###### **核心观点\(key words\):**
 
 > **Top to down\(自顶向下\),refine by steps\(逐步求精\)**
 
-#### **项目进度的GATT图表示：**![](/assets/timg.jpg)
+#### **项目进度的GATT图表示：**![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/timg.jpg)
 
 #### **关键路径的定义和求解方法：**
 
