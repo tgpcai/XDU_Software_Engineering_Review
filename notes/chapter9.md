@@ -27,7 +27,7 @@
 
 #### 功能测试的主要方法（因果图法\)：
 
-![](/assets/屏幕快照 2017-06-22 下午7.17.34.png)
+![](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/屏幕快照 2017-06-22 下午7.17.34.png)
 
 > input 是因，output是果
 
