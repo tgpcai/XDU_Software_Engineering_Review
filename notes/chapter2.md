@@ -32,7 +32,7 @@
 
 **2. V模型**
 
-![image](/assets/timg-1.jpeg)
+![image](https://github.com/tgpcai/XDU_Software_Engineering_Review/blob/master/notes/assets/timg-1.jpeg)
 
 特点：
 
